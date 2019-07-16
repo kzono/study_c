@@ -1,5 +1,5 @@
 
-#define DEF_MACRO
+//#define DEF_MACRO
 
 #ifdef DEF_MACRO
 #define NUM 5
