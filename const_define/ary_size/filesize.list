@@ -1,0 +1,14 @@
+合計 56
+-rw-r--r-- 1 kzoo kzoo  606  7月 16 21:51 define_macro.s
+-rw-r--r-- 1 kzoo kzoo 1480  7月 16 21:52 define_macro.o
+-rw-r--r-- 1 kzoo kzoo 1207  7月 16 21:57 static_const.s
+-rw-r--r-- 1 kzoo kzoo 1816  7月 16 22:03 static_const.o
+-rw-r--r-- 1 kzoo kzoo 5460  7月 16 22:08 static_const.dump
+-rw-r--r-- 1 kzoo kzoo 4899  7月 16 22:08 define_macro.dump
+-rw-r--r-- 1 kzoo kzoo  297  7月 16 22:20 static_const_O3.s
+-rw-r--r-- 1 kzoo kzoo  297  7月 16 22:23 static_const_O2.s
+-rw-r--r-- 1 kzoo kzoo  242  7月 16 22:24 static_const_O1.s
+-rw-r--r-- 1 kzoo kzoo  242  7月 16 22:26 define_macro_O1.s
+-rw-r--r-- 1 kzoo kzoo  200  7月 16 23:08 main.c
+-rw-r--r-- 1 kzoo kzoo 1320  7月 16 23:08 static_const_O3.o
+-rw-r--r-- 1 kzoo kzoo    0  7月 16 23:09 filesize.list
